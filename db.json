@@ -6,6 +6,25 @@
       "expiresAt": "2026-12-31",
       "devices": []
     },
+
+    {
+    "key": "SKYT-8B2A-94FD-17CE",
+    "active": true,
+    "expiresAt": "2026-12-31",
+    "devices": []
+  },
+  {
+    "key": "SKYT-3F6D-1E8B-92AC",
+    "active": true,
+    "expiresAt": "2026-12-31",
+    "devices": []
+  },
+  {
+    "key": "SKYT-7C1E-4A5B-83DF",
+    "active": true,
+    "expiresAt": "2026-12-31",
+    "devices": []
+  },
     {
       "key": "PRO-999-KEY",
       "active": true,
